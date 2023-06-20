@@ -1,15 +1,15 @@
-# Laravel 8 - Manage Salary football Player
+# Laravel 8 - Teachers salary management
 
 ## Screenshots
 
-![preview img](/preview.png)
+![preview img](/screen.png)
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/abdulaziz-m5u/manage-salary-player.git project-name
+  git clone https://github.com/Zahralaajaje/Teachers-salary-management.git project-name
 ```
 
 Go to the project directory
